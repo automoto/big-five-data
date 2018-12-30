@@ -1,11 +1,11 @@
 
 # big-five-data
-Big five personality trait averages for 307,313 people from different countries. Averages were calculated by myself as per the official guidelines from the  [International Personality Item Pool(IPIP)](https://ipip.ori.org/) from raw data provided to the 300 item IPIP-NEO-300 questionnaire which is the most accurate public domain personality test available.
+Big five personality trait scores for 307,313 people from different countries. Scores were calculated by myself as per the official guidelines from the  [International Personality Item Pool(IPIP)](https://ipip.ori.org/) from raw data provided to the 300 item IPIP-NEO-300 questionnaire which is the most accurate public domain personality test available.
 
 This repository contains:
 
- - SQLite database with the average big five trait scores from all participants.
- - CSV file of those average big five trait scores.
+ - SQLite database with the big five trait scores from all participants.
+ - CSV file of those big five trait scores.
  - CSV scoring key used to map participants answer to the relevant traits score.
 
 ### Data Legend
@@ -18,7 +18,7 @@ This repository contains:
 
 **sex:** Biological sex of the person. 1=male, 2=female
 
-Rest of the columns are their average scores from 0 to 1 for each of their big five personality traits: 
+Rest of the columns are their scores from 0 to 1 for each of their big five personality traits: 
 
 - Agreeableness
 - Extraversion
@@ -30,7 +30,7 @@ Rest of the columns are their average scores from 0 to 1 for each of their big f
 
 ### Sample Data
 
-**case\_id**|**country**|**age**|**sex**|**agreeable\_average**|**extraversion\_average**|**openness\_average**|**conscientiousness\_average**|**neuroticism\_average**
+**case\_id**|**country**|**age**|**sex**|**agreeable\_score**|**extraversion\_score**|**openness\_score**|**conscientiousness\_score**|**neuroticism\_score**
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
 1|South Afri|24|1|0.753333333333333|0.496666666666667|0.803333333333333|0.886666666666667|0.426666666666667
 3|UK|24|2|0.733333333333333|0.68|0.786666666666667|0.746666666666667|0.59
@@ -53,7 +53,7 @@ If you appreciate valuable public datasets such as these, please share this repo
 - How accurate are these tests?
     - [Reliability and Validity of IPIP Scales](https://ipip.ori.org/ReliabilityValidity.htm)
 - Does this dataset contain invalid responses and data?
-    - Original dataset cleaned and removed invalid data before averages were calculated. More can be read about detecting invalid responses [here.](https://ipip.ori.org/newValidity.htm)
+    - Original dataset cleaned and removed invalid data before scores were calculated. More can be read about detecting invalid responses [here.](https://ipip.ori.org/newValidity.htm)
 
 ### Sources
 [IPIP-NEO Data Repository](https://osf.io/tbmh5/)
