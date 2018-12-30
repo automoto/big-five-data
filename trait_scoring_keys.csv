@@ -1,0 +1,301 @@
+id,full_position,short_position,sign,key,facet,item
+1,1,1,+N1,N1,Anxiety,Worry about things.
+2,2,2,+E1,E1,Friendliness,Make friends easily.
+3,3,3,+O1,O1,Imagination,Have a vivid imagination.
+4,4,4,+A1,A1,Trust,Trust others.
+5,5,5,+C1,C1,Self-Efficacy,Complete tasks successfully.
+6,6,6,+N2,N2,Anger,Get angry easily.
+7,7,7,+E2,E2,Gregariousness,Love large parties.
+8,8,8,+O2,O2,Artistic Interests,Believe in the importance of art.
+9,9,,+A2,A2,Morality,Would never cheat on my taxes.
+10,10,,+C2,C2,Orderliness,Like order.
+11,11,11,+N3,N3,Depression,Often feel blue.
+12,12,12,+E3,E3,Assertiveness,Take charge.
+13,13,13,+O3,O3,Emotionality,Experience my emotions intensely.
+14,14,,+A3,A3,Altruism,Make people feel welcome.
+15,15,,+C3,C3,Dutifulness,Try to follow the rules.
+16,16,,+N4,N4,Self-Consciousness,Am easily intimidated.
+17,17,17,+E4,E4,Activity Level,Am always busy.
+18,18,18,+O4,O4,Adventurousness,Prefer variety to routine.
+19,19,,+A4,A4,Cooperation,Am easy to satisfy.
+20,20,,+C4,C4,Achievement-Striving,Go straight for the goal.
+21,21,,+N5,N5,Immoderation,Often eat too much.
+22,22,22,+E5,E5,Excitement-Seeking,Love excitement.
+23,23,,+O5,O5,Intellect,Like to solve complex problems.
+24,24,,+A5,A5,Modesty,Dislike being the center of attention.
+25,25,,+C5,C5,Self-Discipline,Get chores done right away.
+26,26,26,+N6,N6,Vulnerability,Panic easily.
+27,27,27,+E6,E6,Cheerfulness,Radiate joy.
+28,28,28,+O6,O6,Liberalism,Tend to vote for liberal political candidates.
+29,29,29,+A6,A6,Sympathy,Sympathize with the homeless.
+30,30,,+C6,C6,Cautiousness,Avoid mistakes.
+31,31,31,+N1,N1,Anxiety,Fear for the worst.
+32,32,,+E1,E1,Friendliness,Warm up quickly to others.
+33,33,33,+O1,O1,Imagination,Enjoy wild flights of fantasy.
+34,34,34,+A1,A1,Trust,Believe that others have good intentions.
+35,35,35,+C1,C1,Self-Efficacy,Excel in what I do.
+36,36,36,+N2,N2,Anger,Get irritated easily.
+37,37,37,+E2,E2,Gregariousness,Talk to a lot of different people at parties.
+38,38,,+O2,O2,Artistic Interests,Like music.
+39,39,,+A2,A2,Morality,Stick to the rules.
+40,40,10,+C2,C2,Orderliness,Like to tidy up.
+41,41,41,+N3,N3,Depression,Dislike myself.
+42,42,42,+E3,E3,Assertiveness,Try to lead others.
+43,43,43,+O3,O3,Emotionality,Feel others' emotions.
+44,44,,+A3,A3,Altruism,Anticipate the needs of others.
+45,45,15,+C3,C3,Dutifulness,Keep my promises.
+46,46,,+N4,N4,Self-Consciousness,Am afraid that I will do the wrong thing.
+47,47,47,+E4,E4,Activity Level,Am always on the go.
+48,48,,+O4,O4,Adventurousness,Like to visit new places.
+49,49,,+A4,A4,Cooperation,Can't stand confrontations.
+50,50,20,+C4,C4,Achievement-Striving,Work hard.
+51,51,,+N5,N5,Immoderation,Don't know why I do some of the things I do.
+52,52,52,+E5,E5,Excitement-Seeking,Seek adventure.
+53,53,23,+O5,O5,Intellect,Love to read challenging material.
+54,54,,+A5,A5,Modesty,Dislike talking about myself.
+55,55,25,+C5,C5,Self-Discipline,Am always prepared.
+56,56,56,+N6,N6,Vulnerability,Become overwhelmed by events.
+57,57,57,+E6,E6,Cheerfulness,Have a lot of fun.
+58,58,58,+O6,O6,Liberalism,Believe that there is no absolute right or wrong.
+59,59,59,+A6,A6,Sympathy,Feel sympathy for those who are worse off than myself.
+60,60,,+C6,C6,Cautiousness,Choose my words with care.
+61,61,61,+N1,N1,Anxiety,Am afraid of many things.
+62,62,32,+E1,E1,Friendliness,Feel comfortable around people.
+63,63,63,+O1,O1,Imagination,Love to daydream.
+64,64,64,+A1,A1,Trust,Trust what people say.
+65,65,65,+C1,C1,Self-Efficacy,Handle tasks smoothly.
+66,66,,+N2,N2,Anger,Get upset easily.
+67,67,,+E2,E2,Gregariousness,Enjoy being part of a group.
+68,68,38,+O2,O2,Artistic Interests,See beauty in things that others might not notice.
+69,69,,-A2,A2,Morality,Use flattery to get ahead.
+70,70,,+C2,C2,Orderliness,"Want everything to be ""just right."""
+71,71,71,+N3,N3,Depression,Am often down in the dumps.
+72,72,,+E3,E3,Assertiveness,Can talk others into doing things.
+73,73,,+O3,O3,Emotionality,Am passionate about causes.
+74,74,14,+A3,A3,Altruism,Love to help others.
+75,75,,+C3,C3,Dutifulness,Pay my bills on time.
+76,76,16,+N4,N4,Self-Consciousness,Find it difficult to approach others.
+77,77,77,+E4,E4,Activity Level,Do a lot in my spare time.
+78,78,,+O4,O4,Adventurousness,Interested in many things.
+79,79,,+A4,A4,Cooperation,Hate to seem pushy.
+80,80,,+C4,C4,Achievement-Striving,Turn plans into actions.
+81,81,,+N5,N5,Immoderation,Do things I later regret.
+82,82,,+E5,E5,Excitement-Seeking,Love action.
+83,83,,+O5,O5,Intellect,Have a rich vocabulary.
+84,84,,+A5,A5,Modesty,Consider myself an average person.
+85,85,,+C5,C5,Self-Discipline,Start tasks right away.
+86,86,86,+N6,N6,Vulnerability,Feel that I'm unable to deal with things.
+87,87,,+E6,E6,Cheerfulness,Express childlike joy.
+88,88,,+O6,O6,Liberalism,Believe that criminals should receive help rather than punishment.
+89,89,,+A6,A6,Sympathy,Value cooperation over competition.
+90,90,,+C6,C6,Cautiousness,Stick to my chosen path.
+91,91,91,+N1,N1,Anxiety,Get stressed out easily.
+92,92,,+E1,E1,Friendliness,Act comfortably with others.
+93,93,93,+O1,O1,Imagination,Like to get lost in thought.
+94,94,,+A1,A1,Trust,Believe that people are basically moral.
+95,95,,+C1,C1,Self-Efficacy,Am sure of my ground.
+96,96,,+N2,N2,Anger,Am often in a bad mood.
+97,97,,+E2,E2,Gregariousness,Involve others in what I am doing.
+98,98,,+O2,O2,Artistic Interests,Love flowers.
+99,99,9,-A2,A2,Morality,Use others for my own ends.
+100,100,,+C2,C2,Orderliness,Love order and regularity.
+101,101,,+N3,N3,Depression,Have a low opinion of myself.
+102,102,,+E3,E3,Assertiveness,Seek to influence others.
+103,103,,+O3,O3,Emotionality,Enjoy examining myself and my life.
+104,104,44,+A3,A3,Altruism,Am concerned about others.
+105,105,45,+C3,C3,Dutifulness,Tell the truth.
+106,106,46,+N4,N4,Self-Consciousness,Am afraid to draw attention to myself.
+107,107,,+E4,E4,Activity Level,Can manage many things at the same time.
+108,108,,+O4,O4,Adventurousness,Like to begin new things.
+109,109,,-A4,A4,Cooperation,Have a sharp tongue.
+110,110,,+C4,C4,Achievement-Striving,Plunge into tasks with all my heart.
+111,111,21,+N5,N5,Immoderation,Go on binges.
+112,112,,+E5,E5,Excitement-Seeking,Enjoy being part of a loud crowd.
+113,113,,+O5,O5,Intellect,Can handle a lot of information.
+114,114,,+A5,A5,Modesty,Seldom toot my own horn.
+115,115,,+C5,C5,Self-Discipline,Get to work at once.
+116,116,,+N6,N6,Vulnerability,Can't make up my mind.
+117,117,,+E6,E6,Cheerfulness,Laugh my way through life.
+118,118,,-O6,O6,Liberalism,Believe in one true religion.
+119,119,,+A6,A6,Sympathy,Suffer from others' sorrows.
+120,120,30,-C6,C6,Cautiousness,Jump into things without thinking.
+121,121,,+N1,N1,Anxiety,Get caught up in my problems.
+122,122,,+E1,E1,Friendliness,Cheer people up.
+123,123,,+O1,O1,Imagination,Indulge in my fantasies.
+124,124,,+A1,A1,Trust,Believe in human goodness.
+125,125,,+C1,C1,Self-Efficacy,Come up with good solutions.
+126,126,66,+N2,N2,Anger,Lose my temper.
+127,127,,+E2,E2,Gregariousness,Love surprise parties.
+128,128,,+O2,O2,Artistic Interests,Enjoy the beauty of nature.
+129,129,,-A2,A2,Morality,Know how to get around the rules.
+130,130,,+C2,C2,Orderliness,Do things according to a plan.
+131,131,,+N3,N3,Depression,Have frequent mood swings.
+132,132,72,+E3,E3,Assertiveness,Take control of things.
+133,133,,+O3,O3,Emotionality,Try to understand myself.
+134,134,,+A3,A3,Altruism,Have a good word for everyone.
+135,135,,+C3,C3,Dutifulness,Listen to my conscience.
+136,136,76,+N4,N4,Self-Consciousness,Only feel comfortable with friends.
+137,137,,+E4,E4,Activity Level,React quickly.
+138,138,48,-O4,O4,Adventurousness,Prefer to stick with things that I know.
+139,139,,-A4,A4,Cooperation,Contradict others.
+140,140,50,+C4,C4,Achievement-Striving,Do more than what's expected of me.
+141,141,,+N5,N5,Immoderation,Love to eat.
+142,142,82,+E5,E5,Excitement-Seeking,Enjoy being reckless.
+143,143,,+O5,O5,Intellect,Enjoy thinking about things.
+144,144,24,-A5,A5,Modesty,Believe that I am better than others.
+145,145,55,+C5,C5,Self-Discipline,Carry out my plans.
+146,146,,+N6,N6,Vulnerability,Get overwhelmed by emotions.
+147,147,87,+E6,E6,Cheerfulness,Love life.
+148,148,88,-O6,O6,Liberalism,Tend to vote for conservative political candidates.
+149,149,89,-A6,A6,Sympathy,Am not interested in other people's problems.
+150,150,60,-C6,C6,Cautiousness,Make rash decisions.
+151,151,,-N1,N1,Anxiety,Am not easily bothered by things.
+152,152,,-E1,E1,Friendliness,Am hard to get to know.
+153,153,,+O1,O1,Imagination,Spend time reflecting on things.
+154,154,,+A1,A1,Trust,Think that all will be well.
+155,155,95,+C1,C1,Self-Efficacy,Know how to get things done.
+156,156,,-N2,N2,Anger,Rarely get irritated.
+157,157,67,-E2,E2,Gregariousness,Prefer to be alone.
+158,158,,-O2,O2,Artistic Interests,Do not like art.
+159,159,39,-A2,A2,Morality,Cheat to get ahead.
+160,160,40,-C2,C2,Orderliness,Often forget to put things back in their proper place.
+161,161,,+N3,N3,Depression,Feel desperate.
+162,162,102,-E3,E3,Assertiveness,Wait for others to lead the way.
+163,163,,-O3,O3,Emotionality,Seldom get emotional.
+164,164,,-A3,A3,Altruism,Look down on others.
+165,165,75,-C3,C3,Dutifulness,Break rules.
+166,166,,+N4,N4,Self-Consciousness,Stumble over my words.
+167,167,107,-E4,E4,Activity Level,Like to take it easy.
+168,168,78,-O4,O4,Adventurousness,Dislike changes.
+169,169,19,-A4,A4,Cooperation,Love a good fight.
+170,170,,+C4,C4,Achievement-Striving,Set high standards for myself and others.
+171,171,51,-N5,N5,Immoderation,Rarely overindulge.
+172,172,112,+E5,E5,Excitement-Seeking,Act wild and crazy.
+173,173,,-O5,O5,Intellect,Am not interested in abstract ideas.
+174,174,54,-A5,A5,Modesty,Think highly of myself.
+175,175,,-C5,C5,Self-Discipline,Find it difficult to get down to work.
+176,176,116,-N6,N6,Vulnerability,Remain calm under pressure.
+177,177,117,+E6,E6,Cheerfulness,Look at the bright side of life.
+178,178,,-O6,O6,Liberalism,Believe that too much tax money goes to support artists.
+179,179,,-A6,A6,Sympathy,Tend to dislike soft-hearted people.
+180,180,,-C6,C6,Cautiousness,Like to act on a whim.
+181,181,,-N1,N1,Anxiety,Am relaxed most of the time.
+182,182,,-E1,E1,Friendliness,Often feel uncomfortable around others.
+183,183,,-O1,O1,Imagination,Seldom daydream.
+184,184,94,-A1,A1,Trust,Distrust people.
+185,185,,-C1,C1,Self-Efficacy,Misjudge situations.
+186,186,,-N2,N2,Anger,Seldom get mad.
+187,187,,-E2,E2,Gregariousness,Want to be left alone.
+188,188,68,-O2,O2,Artistic Interests,Do not like poetry.
+189,189,,-A2,A2,Morality,Put people under pressure.
+190,190,70,-C2,C2,Orderliness,Leave a mess in my room.
+191,191,,+N3,N3,Depression,Feel that my life lacks direction.
+192,192,,-E3,E3,Assertiveness,Keep in the background.
+193,193,,-O3,O3,Emotionality,Am not easily affected by my emotions.
+194,194,74,-A3,A3,Altruism,Am indifferent to the feelings of others.
+195,195,105,-C3,C3,Dutifulness,Break my promises.
+196,196,,-N4,N4,Self-Consciousness,Am not embarrassed easily.
+197,197,,-E4,E4,Activity Level,Like to take my time.
+198,198,,-O4,O4,Adventurousness,Don't like the idea of change.
+199,199,49,-A4,A4,Cooperation,Yell at people.
+200,200,,+C4,C4,Achievement-Striving,Demand quality.
+201,201,81,-N5,N5,Immoderation,Easily resist temptations.
+202,202,,+E5,E5,Excitement-Seeking,Willing to try anything once.
+203,203,53,-O5,O5,Intellect,Avoid philosophical discussions.
+204,204,84,-A5,A5,Modesty,Have a high opinion of myself.
+205,205,85,-C5,C5,Self-Discipline,Waste my time.
+206,206,,-N6,N6,Vulnerability,Can handle complex problems.
+207,207,,+E6,E6,Cheerfulness,Laugh aloud.
+208,208,,-O6,O6,Liberalism,Believe laws should be strictly enforced.
+209,209,,-A6,A6,Sympathy,Believe in an eye for an eye.
+210,210,90,-C6,C6,Cautiousness,Rush into things.
+211,211,,-N1,N1,Anxiety,Am not easily disturbed by events.
+212,212,62,-E1,E1,Friendliness,Avoid contacts with others.
+213,213,,-O1,O1,Imagination,Do not have a good imagination.
+214,214,,-A1,A1,Trust,Suspect hidden motives in others.
+215,215,,-C1,C1,Self-Efficacy,Don't understand things.
+216,216,96,-N2,N2,Anger,Am not easily annoyed.
+217,217,,-E2,E2,Gregariousness,Don't like crowded events.
+218,218,98,-O2,O2,Artistic Interests,Do not enjoy going to art museums.
+219,219,,-A2,A2,Morality,Pretend to be concerned for others.
+220,220,100,-C2,C2,Orderliness,Leave my belongings around.
+221,221,,-N3,N3,Depression,Seldom feel blue.
+222,222,,-E3,E3,Assertiveness,Have little to say.
+223,223,73,-O3,O3,Emotionality,Rarely notice my emotional reactions.
+224,224,,-A3,A3,Altruism,Make people feel uncomfortable.
+225,225,,-C3,C3,Dutifulness,Get others to do my duties.
+226,226,,-N4,N4,Self-Consciousness,Am comfortable in unfamiliar situations.
+227,227,,-E4,E4,Activity Level,Like a leisurely lifestyle.
+228,228,,-O4,O4,Adventurousness,Am a creature of habit.
+229,229,79,-A4,A4,Cooperation,Insult people.
+230,230,,-C4,C4,Achievement-Striving,Am not highly motivated to succeed.
+231,231,111,-N5,N5,Immoderation,Am able to control my cravings.
+232,232,,+E5,E5,Excitement-Seeking,Seek danger.
+233,233,83,-O5,O5,Intellect,Have difficulty understanding abstract ideas.
+234,234,,-A5,A5,Modesty,Know the answers to many questions.
+235,235,,-C5,C5,Self-Discipline,Need a push to get started.
+236,236,,-N6,N6,Vulnerability,Know how to cope.
+237,237,,+E6,E6,Cheerfulness,Amuse my friends.
+238,238,,-O6,O6,Liberalism,Believe that we coddle criminals too much.
+239,239,119,-A6,A6,Sympathy,Try not to think about the needy.
+240,240,,-C6,C6,Cautiousness,Do crazy things.
+241,241,,-N1,N1,Anxiety,Don't worry about things that have already happened.
+242,242,,-E1,E1,Friendliness,Am not really interested in others.
+243,243,,-O1,O1,Imagination,Seldom get lost in thought.
+244,244,,-A1,A1,Trust,Am wary of others.
+245,245,,-C1,C1,Self-Efficacy,Have little to contribute.
+246,246,,-N2,N2,Anger,Keep my cool.
+247,247,97,-E2,E2,Gregariousness,Avoid crowds.
+248,248,,-O2,O2,Artistic Interests,Do not like concerts.
+249,249,69,-A2,A2,Morality,Take advantage of others.
+250,250,,-C2,C2,Orderliness,Am not bothered by messy people.
+251,251,101,-N3,N3,Depression,Feel comfortable with myself.
+252,252,,-E3,E3,Assertiveness,Don't like to draw attention to myself.
+253,253,,-O3,O3,Emotionality,Experience very few emotional highs and lows.
+254,254,,-A3,A3,Altruism,Turn my back on others.
+255,255,,-C3,C3,Dutifulness,Do the opposite of what is asked.
+256,256,106,-N4,N4,Self-Consciousness,Am not bothered by difficult social situations.
+257,257,,-E4,E4,Activity Level,Let things proceed at their own pace.
+258,258,,-O4,O4,Adventurousness,Dislike new foods.
+259,259,109,-A4,A4,Cooperation,Get back at others.
+260,260,80,-C4,C4,Achievement-Striving,Do just enough work to get by.
+261,261,,-N5,N5,Immoderation,Never spend more than I can afford.
+262,262,,-E5,E5,Excitement-Seeking,Would never go hang gliding or bungee jumping.
+263,263,113,-O5,O5,Intellect,Am not interested in theoretical discussions.
+264,264,114,-A5,A5,Modesty,Boast about my virtues.
+265,265,115,-C5,C5,Self-Discipline,Have difficulty starting tasks.
+266,266,,-N6,N6,Vulnerability,Readily overcome setbacks.
+267,267,,-E6,E6,Cheerfulness,Am not easily amused.
+268,268,118,-O6,O6,Liberalism,Believe that we should be tough on crime.
+269,269,,-A6,A6,Sympathy,Believe people should fend for themselves.
+270,270,120,-C6,C6,Cautiousness,Act without thinking.
+271,271,,-N1,N1,Anxiety,Adapt easily to new situations.
+272,272,92,-E1,E1,Friendliness,Keep others at a distance.
+273,273,,-O1,O1,Imagination,Have difficulty imagining things.
+274,274,,-A1,A1,Trust,Believe that people are essentially evil.
+275,275,,-C1,C1,Self-Efficacy,Don't see the consequences of things.
+276,276,,-N2,N2,Anger,Rarely complain.
+277,277,,-E2,E2,Gregariousness,Seek quiet.
+278,278,,-O2,O2,Artistic Interests,Do not enjoy watching dance performances.
+279,279,99,-A2,A2,Morality,Obstruct others' plans.
+280,280,,-C2,C2,Orderliness,Am not bothered by disorder.
+281,281,,-N3,N3,Depression,Am very pleased with myself.
+282,282,,-E3,E3,Assertiveness,Hold back my opinions.
+283,283,103,-O3,O3,Emotionality,Don't understand people who get emotional.
+284,284,104,-A3,A3,Altruism,Take no time for others.
+285,285,,-C3,C3,Dutifulness,Misrepresent the facts.
+286,286,,-N4,N4,Self-Consciousness,Am able to stand up for myself.
+287,287,,-E4,E4,Activity Level,React slowly.
+288,288,108,-O4,O4,Adventurousness,Am attached to conventional ways.
+289,289,,-A4,A4,Cooperation,Hold a grudge.
+290,290,110,-C4,C4,Achievement-Striving,Put little time and effort into my work.
+291,291,,-N5,N5,Immoderation,Never splurge.
+292,292,,-E5,E5,Excitement-Seeking,Dislike loud music.
+293,293,,-O5,O5,Intellect,Avoid difficult reading material.
+294,294,,-A5,A5,Modesty,Make myself the center of attention.
+295,295,,-C5,C5,Self-Discipline,Postpone decisions.
+296,296,,-N6,N6,Vulnerability,Am calm even in tense situations.
+297,297,,-E6,E6,Cheerfulness,Seldom joke around.
+298,298,,-O6,O6,Liberalism,Like to stand during the national anthem.
+299,299,,-A6,A6,Sympathy,Can't stand weak people.
+300,300,,-C6,C6,Cautiousness,Often make last-minute plans.
