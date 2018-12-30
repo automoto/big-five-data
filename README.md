@@ -1,3 +1,4 @@
+
 # big-five-data
 Big five personality trait averages for 307,313 people from different countries. Averages were calculated by myself as per the official guidelines from the  [International Personality Item Pool(IPIP)](https://ipip.ori.org/) from raw data provided to the 300 item IPIP-NEO-300 questionnaire which is the most accurate public domain personality test available.
 
@@ -17,7 +18,13 @@ This repository contains:
 
 **sex:** Biological sex of the person. 1=male, 2=female
 
-Rest of the columns are their average scores from 0 to 1 for each of their big five personality traits: Agreeableness, Extraversion, Openness(Openness to experience), Conscientiousness, Neuroticism
+Rest of the columns are their average scores from 0 to 1 for each of their big five personality traits: 
+
+- Agreeableness
+- Extraversion
+- Openness(Openness to experience)
+- Conscientiousness
+- Neuroticism.
 
 [Read more about what these traits mean here](https://en.wikipedia.org/wiki/Big_Five_personality_traits#Descriptions_of_the_particular_personality_traits)
 
@@ -41,6 +48,12 @@ Rest of the columns are their average scores from 0 to 1 for each of their big f
 15|USA|48|2|0.78|0.613333333333333|0.713333333333333|0.833333333333333|0.683333333333333
 
 If you appreciate valuable public datasets such as these, please share this repository and consider a donation to the [IPIP Foundation](https://ipip.ori.org/newWilling_to_Help.htm)
+
+### Accuracy
+- How accurate are these tests?
+    - [Reliability and Validity of IPIP Scales](https://ipip.ori.org/ReliabilityValidity.htm)
+- Does this dataset contain invalid responses and data?
+    - Original dataset cleaned and removed invalid data before averages were calculated. More can be read about detecting invalid responses [here.](https://ipip.ori.org/newValidity.htm)
 
 ### Sources
 [IPIP-NEO Data Repository](https://osf.io/tbmh5/)
