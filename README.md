@@ -51,7 +51,7 @@ If you appreciate valuable public datasets such as these, please share this repo
 
 ### Accuracy
 - How accurate are these tests?
-    - [Reliability and Validity of IPIP Scales](https://ipip.ori.org/ReliabilityValidity.htm)
+    - Quite accurate. [Reliability and Validity of IPIP Scales](https://ipip.ori.org/ReliabilityValidity.htm)
 - Does this dataset contain invalid responses and data?
     - Original dataset cleaned and removed invalid data before scores were calculated. More can be read about detecting invalid responses [here.](https://ipip.ori.org/newValidity.htm)
 
